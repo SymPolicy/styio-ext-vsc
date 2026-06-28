@@ -1,0 +1,7 @@
+* @SymPolicy
+
+/src/ @SymPolicy
+/syntaxes/ @SymPolicy
+/snippets/ @SymPolicy
+/.github/workflows/ @SymPolicy
+/docs/specs/ @SymPolicy
