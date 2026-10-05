@@ -468,7 +468,7 @@ function validateYamlSyntax() {
     '.github/workflows/local-ci-gate.yml',
     '.github/workflows/publish-marketplace.yml',
     '.github/workflows/repo-hygiene.yml',
-    '.github/workflows/styio-audit.yml'
+    '.github/workflows/general-auditor.yml'
   ]) {
     run(
       'node',
